@@ -1,2 +1,0 @@
-include ':libtd'
-rootProject.name='td'
